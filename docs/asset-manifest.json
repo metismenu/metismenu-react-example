@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.332f0b97.chunk.css",
-    "main.js": "/static/js/main.d45297ae.chunk.js",
-    "main.js.map": "/static/js/main.d45297ae.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.35a3e75f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.35a3e75f.js.map",
-    "static/css/2.ffe6cf14.chunk.css": "/static/css/2.ffe6cf14.chunk.css",
-    "static/js/2.666b2755.chunk.js": "/static/js/2.666b2755.chunk.js",
-    "static/js/2.666b2755.chunk.js.map": "/static/js/2.666b2755.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5392acf418d799abb489379d1071f671.js": "/precache-manifest.5392acf418d799abb489379d1071f671.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.ffe6cf14.chunk.css.map": "/static/css/2.ffe6cf14.chunk.css.map",
-    "static/css/main.332f0b97.chunk.css.map": "/static/css/main.332f0b97.chunk.css.map",
-    "static/js/2.666b2755.chunk.js.LICENSE.txt": "/static/js/2.666b2755.chunk.js.LICENSE.txt"
+    "main.css": "/metismenu-react-example/static/css/main.fb04b53c.chunk.css",
+    "main.js": "/metismenu-react-example/static/js/main.088dac2c.chunk.js",
+    "main.js.map": "/metismenu-react-example/static/js/main.088dac2c.chunk.js.map",
+    "runtime-main.js": "/metismenu-react-example/static/js/runtime-main.0d36108f.js",
+    "runtime-main.js.map": "/metismenu-react-example/static/js/runtime-main.0d36108f.js.map",
+    "static/css/2.b6ffd241.chunk.css": "/metismenu-react-example/static/css/2.b6ffd241.chunk.css",
+    "static/js/2.a61f4ced.chunk.js": "/metismenu-react-example/static/js/2.a61f4ced.chunk.js",
+    "static/js/2.a61f4ced.chunk.js.map": "/metismenu-react-example/static/js/2.a61f4ced.chunk.js.map",
+    "index.html": "/metismenu-react-example/index.html",
+    "precache-manifest.43942bba913078793f1283de9d43b3a3.js": "/metismenu-react-example/precache-manifest.43942bba913078793f1283de9d43b3a3.js",
+    "service-worker.js": "/metismenu-react-example/service-worker.js",
+    "static/css/2.b6ffd241.chunk.css.map": "/metismenu-react-example/static/css/2.b6ffd241.chunk.css.map",
+    "static/css/main.fb04b53c.chunk.css.map": "/metismenu-react-example/static/css/main.fb04b53c.chunk.css.map",
+    "static/js/2.a61f4ced.chunk.js.LICENSE.txt": "/metismenu-react-example/static/js/2.a61f4ced.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.35a3e75f.js",
-    "static/css/2.ffe6cf14.chunk.css",
-    "static/js/2.666b2755.chunk.js",
-    "static/css/main.332f0b97.chunk.css",
-    "static/js/main.d45297ae.chunk.js"
+    "static/js/runtime-main.0d36108f.js",
+    "static/css/2.b6ffd241.chunk.css",
+    "static/js/2.a61f4ced.chunk.js",
+    "static/css/main.fb04b53c.chunk.css",
+    "static/js/main.088dac2c.chunk.js"
   ]
 }
