@@ -9,7 +9,7 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter basename="/metismenu-react-example/">
+    <BrowserRouter basename="/metismenu-react-example">
       <div className="app">
         <aside className="sidebar">
           <SidebarNav />

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/metismenu-react-example/precache-manifest.334760568c9f5b7ef55f667da54b0766.js"
+  "/metismenu-react-example/precache-manifest.eb96449828d8c257c2176c3818b25cbc.js"
 );
 
 self.addEventListener('message', (event) => {

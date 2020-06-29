@@ -2,7 +2,7 @@
   "name": "mm-react",
   "version": "0.1.1",
   "private": true,
-  "homepage": "https://onokumus.com/metismenu-react-example",
+  "homepage": "https://onokumus.com/metismenu-react-example/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

@@ -11,8 +11,8 @@ const SidebarNav = () => {
           <li>
             <Link to="#" className="has-arrow">Other Pages</Link>
             <ul>
-              <li><NavLink to="/about">About</NavLink></li>
-              <li><NavLink to="/contact">Contact</NavLink></li>
+              <li><NavLink to="about">About</NavLink></li>
+              <li><NavLink to="contact">Contact</NavLink></li>
             </ul>
           </li>
           <li>
