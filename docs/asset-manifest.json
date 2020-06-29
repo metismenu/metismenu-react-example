@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/metismenu-react-example/static/css/main.fb04b53c.chunk.css",
-    "main.js": "/metismenu-react-example/static/js/main.088dac2c.chunk.js",
-    "main.js.map": "/metismenu-react-example/static/js/main.088dac2c.chunk.js.map",
+    "main.js": "/metismenu-react-example/static/js/main.aafb4a77.chunk.js",
+    "main.js.map": "/metismenu-react-example/static/js/main.aafb4a77.chunk.js.map",
     "runtime-main.js": "/metismenu-react-example/static/js/runtime-main.0d36108f.js",
     "runtime-main.js.map": "/metismenu-react-example/static/js/runtime-main.0d36108f.js.map",
     "static/css/2.b6ffd241.chunk.css": "/metismenu-react-example/static/css/2.b6ffd241.chunk.css",
     "static/js/2.a61f4ced.chunk.js": "/metismenu-react-example/static/js/2.a61f4ced.chunk.js",
     "static/js/2.a61f4ced.chunk.js.map": "/metismenu-react-example/static/js/2.a61f4ced.chunk.js.map",
     "index.html": "/metismenu-react-example/index.html",
-    "precache-manifest.43942bba913078793f1283de9d43b3a3.js": "/metismenu-react-example/precache-manifest.43942bba913078793f1283de9d43b3a3.js",
+    "precache-manifest.334760568c9f5b7ef55f667da54b0766.js": "/metismenu-react-example/precache-manifest.334760568c9f5b7ef55f667da54b0766.js",
     "service-worker.js": "/metismenu-react-example/service-worker.js",
     "static/css/2.b6ffd241.chunk.css.map": "/metismenu-react-example/static/css/2.b6ffd241.chunk.css.map",
     "static/css/main.fb04b53c.chunk.css.map": "/metismenu-react-example/static/css/main.fb04b53c.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.b6ffd241.chunk.css",
     "static/js/2.a61f4ced.chunk.js",
     "static/css/main.fb04b53c.chunk.css",
-    "static/js/main.088dac2c.chunk.js"
+    "static/js/main.aafb4a77.chunk.js"
   ]
 }

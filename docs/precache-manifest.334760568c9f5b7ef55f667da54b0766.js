@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2655748c38b4316ef2680cd55f111fa9",
+    "revision": "65ca02a57812b82ca6f2bbb4cf14b38a",
     "url": "/metismenu-react-example/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/metismenu-react-example/static/css/2.b6ffd241.chunk.css"
   },
   {
-    "revision": "550cefd134920cb5c4e2",
+    "revision": "9be636d65328cd8102eb",
     "url": "/metismenu-react-example/static/css/main.fb04b53c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/metismenu-react-example/static/js/2.a61f4ced.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "550cefd134920cb5c4e2",
-    "url": "/metismenu-react-example/static/js/main.088dac2c.chunk.js"
+    "revision": "9be636d65328cd8102eb",
+    "url": "/metismenu-react-example/static/js/main.aafb4a77.chunk.js"
   },
   {
     "revision": "8abe24d70252db4c1015",
