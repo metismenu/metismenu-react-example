@@ -12,7 +12,7 @@
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
     "@metismenu/react": "^0.0.2",
-    "react": "^16.13.1",
+    "react": "^17.0.2",
     "react-dom": "^16.13.1",
     "react-router-dom": "^6.4.1",
     "react-scripts": "5.0.1",
