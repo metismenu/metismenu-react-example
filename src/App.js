@@ -7,7 +7,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <BrowserRouter basename="/metismenu-react-example">
+    <BrowserRouter>
       <div className='app'>
         <aside className='sidebar'>
           <SidebarNav />
