@@ -1,25 +1,15 @@
 {
   "files": {
-    "main.css": "/metismenu-react-example/static/css/main.fb04b53c.chunk.css",
-    "main.js": "/metismenu-react-example/static/js/main.43c9e823.chunk.js",
-    "main.js.map": "/metismenu-react-example/static/js/main.43c9e823.chunk.js.map",
-    "runtime-main.js": "/metismenu-react-example/static/js/runtime-main.0d36108f.js",
-    "runtime-main.js.map": "/metismenu-react-example/static/js/runtime-main.0d36108f.js.map",
-    "static/css/2.b6ffd241.chunk.css": "/metismenu-react-example/static/css/2.b6ffd241.chunk.css",
-    "static/js/2.a61f4ced.chunk.js": "/metismenu-react-example/static/js/2.a61f4ced.chunk.js",
-    "static/js/2.a61f4ced.chunk.js.map": "/metismenu-react-example/static/js/2.a61f4ced.chunk.js.map",
-    "index.html": "/metismenu-react-example/index.html",
-    "precache-manifest.eb96449828d8c257c2176c3818b25cbc.js": "/metismenu-react-example/precache-manifest.eb96449828d8c257c2176c3818b25cbc.js",
-    "service-worker.js": "/metismenu-react-example/service-worker.js",
-    "static/css/2.b6ffd241.chunk.css.map": "/metismenu-react-example/static/css/2.b6ffd241.chunk.css.map",
-    "static/css/main.fb04b53c.chunk.css.map": "/metismenu-react-example/static/css/main.fb04b53c.chunk.css.map",
-    "static/js/2.a61f4ced.chunk.js.LICENSE.txt": "/metismenu-react-example/static/js/2.a61f4ced.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.14a636e0.css",
+    "main.js": "/static/js/main.ba161a3d.js",
+    "static/js/787.f7361627.chunk.js": "/static/js/787.f7361627.chunk.js",
+    "index.html": "/index.html",
+    "main.14a636e0.css.map": "/static/css/main.14a636e0.css.map",
+    "main.ba161a3d.js.map": "/static/js/main.ba161a3d.js.map",
+    "787.f7361627.chunk.js.map": "/static/js/787.f7361627.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d36108f.js",
-    "static/css/2.b6ffd241.chunk.css",
-    "static/js/2.a61f4ced.chunk.js",
-    "static/css/main.fb04b53c.chunk.css",
-    "static/js/main.43c9e823.chunk.js"
+    "static/css/main.14a636e0.css",
+    "static/js/main.ba161a3d.js"
   ]
 }
